@@ -1,0 +1,49 @@
+body{
+    background-color:springgreen;
+    text-align: center;
+}
+
+.bgDark{
+    background-color:darkgreen;
+}
+
+a{
+    color: beige;
+}
+
+a:hover{
+    color:fuchsia;
+}
+
+
+.playpen-sans-arabic-<uniquifier> {
+  font-family: "Playpen Sans Arabic", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1{
+  font-family: "Playpen Sans Arabic", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2{
+    font-family: "Playpen Sans Arabic", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h3{
+    font-family: "Playpen Sans Arabic", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a{
+    font-family: "Comfortaa", sans-serif;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+
